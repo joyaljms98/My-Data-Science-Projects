@@ -1,2 +1,5 @@
 In this project, your goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines, based on the information they shared about their backgrounds, opinions, and health behaviors.
 Data is provided courtesy of the United States National Center for Health Statistics.
+
+The "1. Vaccination_Prediction.ipynb" Notebook contains the python codes for analysing , cleaning and prediction using ML models. 
+The data of the project can be found here named "features.csv" and "labels.csv"
