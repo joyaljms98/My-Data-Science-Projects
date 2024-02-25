@@ -1,0 +1,6 @@
+In this project the objective was to 
+
+
+•	Analyzed and Classified diseases, affecting rice plants using a dataset of images.
+•	Used CNN models like ResNet50, VGG16 and VGG19 to classify and find the disease.
+•	Also Built python code to automatically unzip if dataset is a zip file for this project.
