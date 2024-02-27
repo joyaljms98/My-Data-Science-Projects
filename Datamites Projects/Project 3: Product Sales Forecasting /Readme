@@ -1,5 +1,0 @@
-In this project we will be doing a Product Sales Forecasting 
-
-•	Predicted daily rental bike count based on the environmental and seasonal settings. 
-•	Used Excel for basic analysis of historical data and python for cleaning and ML models like XGBoost, Support Vector Machine and ANN regressors for prediction.
-•	Used PowerBi to create visualizations and present the findings to the sales team.
